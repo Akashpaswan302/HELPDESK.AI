@@ -1,7 +1,7 @@
 <div align="center">
 
 # `H E L P D E S K . A I`
-**The Intelligent Standard for Enterprise IT Service Management**
+**The Intelligent Standard for Enterprise IT Service Management.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Vercel Deployment](https://img.shields.io/badge/Production-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://helpdeskaiv1.vercel.app/)
